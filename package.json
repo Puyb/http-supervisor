@@ -1,0 +1,9 @@
+{
+  "name": "http-supervisor",
+  "version": "0.1",
+  "licence": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "graphite": "^0.1.2"
+  }
+}

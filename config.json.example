@@ -1,0 +1,7 @@
+{
+    "interval": 10000,
+    "urls": [
+        "https://google.fr/"
+    ],
+    "graphite_url": "plaintext://graphite:2003/"
+}
